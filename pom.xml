@@ -25,5 +25,8 @@
   </dependencies>
   <build>
     <finalName>mvnwebapp</finalName>
+    <configuration>
+        <failOnMissingWebXml>false</failOnMissingWebXml>
+    </configuration>
   </build>
 </project>
